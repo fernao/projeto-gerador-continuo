@@ -12,7 +12,7 @@ As caixas d'agua cumprem a função de baterias.
 Criar um sistema de controle interligado a sensores e abrir/fechar válvulas senoidais para gerar água sob demanda.
 
 
-  \ /
+```  \ /
  --0--   Catavento
   /|\
  / | \
